@@ -10,7 +10,7 @@ Automates the alphabet typing game on speedtypingonline.com:
 - Enter a number in the terminal and the bot will run multiple attempts
 
 ### 2. WhatsApp Assistant 💬
-Automated WhatsApp Web interaction with LLM:
+Automated WhatsApp Web interaction with local DeepSeek-R1:
 - Detects mentions (`@username`)
 - Processes messages through Ollama servers
 - Sends automated responses
