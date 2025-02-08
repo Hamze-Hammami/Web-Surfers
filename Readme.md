@@ -1,6 +1,6 @@
 # Web Surfers 🏄‍♂️
 
-A collection of web automation tools built with Puppeteer and Selenium.
+web automation tools built with Puppeteer and Selenium.
 
 ## 🎯 Tools
 
