@@ -2,14 +2,14 @@
 
 web automation tools built with Puppeteer and Selenium.
 
-## 🎯 Tools
+## Tools
 
-### 1. Speed Typing Bot 🚀
+### 1. Speed Typing Bot 
 Automates the alphabet typing game on speedtypingonline.com:
 - Manually choose mode in the game (random, reverse, etc.)
 - Enter a number in the terminal and the bot will run multiple attempts
 
-### 2. WhatsApp Assistant 💬
+### 2. WhatsApp Assistant 
 Automated WhatsApp Web interaction with local DeepSeek-R1:
 - Detects mentions (`@username`)
 - Processes messages through Ollama servers
